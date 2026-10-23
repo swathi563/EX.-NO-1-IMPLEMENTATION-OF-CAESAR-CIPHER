@@ -49,10 +49,13 @@ int main()
 ```
 
 ## OUTPUT:
+```
 Enter the plaintext: value
-Enter the key: 5
-Ciphertext: afqzj
 
+Enter the key: 5
+
+Ciphertext: afqzj
+```
 <img width="402" height="133" alt="image" src="https://github.com/user-attachments/assets/a52ceeaf-2b22-4d5c-87bf-e6587f1809e5" />
 
 ## RESULT :
